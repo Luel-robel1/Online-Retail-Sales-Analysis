@@ -1,0 +1,3 @@
+import pandas as pd
+
+df.to_csv('online_retail_clean.csv', index=False)
